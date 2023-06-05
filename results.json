@@ -1,0 +1,48 @@
+[
+  { "team1": "Andraus", "team2": "Grêmio Maringá", "winner": "Andraus" },
+  { "team1": "PSTC", "team2": "Apucarana", "winner": "PSTC" },
+  { "team1": "Paraná", "team2": "Toledo", "winner": "Paraná" },
+  { "team1": "Iguaçu", "team2": "Patriotas FC", "winner": "Patriotas FC" },
+  {
+    "team1": "Laranja Mecanica",
+    "team2": "Araucaria",
+    "winner": "Laranja Mecanica"
+  },
+  { "team1": "Andraus", "team2": "Paraná", "winner": "draw" },
+  {
+    "team1": "Grêmio Maringá",
+    "team2": "Laranja Mecanica",
+    "winner": "Grêmio Maringá"
+  },
+  { "team1": "Araucaria", "team2": "PSTC", "winner": "PSTC" },
+  { "team1": "Iguaçu", "team2": "Apucarana", "winner": "draw" },
+  { "team1": "Patriotas FC", "team2": "Toledo", "winner": "Patriotas FC" },
+  { "team1": "Apucarana", "team2": "Grêmio Maringá", "winner": "Apucarana" },
+  { "team1": "Laranja Mecanica", "team2": "Iguaçu", "winner": "Iguaçu" },
+  { "team1": "Patriotas FC", "team2": "Andraus", "winner": "draw" },
+  { "team1": "PSTC", "team2": "Paraná", "winner": "draw" },
+  { "team1": "Toledo", "team2": "Araucaria", "winner": "Toledo" },
+  { "team1": "Apucarana", "team2": "Patriotas FC", "winner": "Patriotas FC" },
+  { "team1": "Laranja Mecanica", "team2": "PSTC", "winner": "draw" },
+  { "team1": "Paraná", "team2": "Grêmio Maringá", "winner": "draw" },
+  { "team1": "Araucaria", "team2": "Andraus", "winner": "Andraus" },
+  { "team1": "Iguaçu", "team2": "Toledo", "winner": "Iguaçu" },
+  { "team1": "Paraná", "team2": "Apucarana", "winner": "Apucarana" },
+  {
+    "team1": "Toledo",
+    "team2": "Laranja Mecanica",
+    "winner": "Laranja Mecanica"
+  },
+  { "team1": "Patriotas FC", "team2": "Araucaria", "winner": "Patriotas FC" },
+  { "team1": "Grêmio Maringá", "team2": "PSTC", "winner": "PSTC" },
+  { "team1": "Andraus", "team2": "Iguaçu", "winner": "Andraus" },
+  { "team1": "PSTC", "team2": "Iguaçu", "winner": "Iguaçu" },
+  { "team1": "Laranja Mecanica", "team2": "Paraná", "winner": "draw" },
+  { "team1": "Apucarana", "team2": "Araucaria", "winner": "Apucarana" },
+  { "team1": "Toledo", "team2": "Andraus", "winner": "Andraus" },
+  {
+    "team1": "Grêmio Maringá",
+    "team2": "Patriotas FC",
+    "winner": "Patriotas FC"
+  }
+]
